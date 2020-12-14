@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Omikuji</string>
+    <string name="lucky">大吉</string>
+    <string name="btn_re">もう一度引く</string>
 </resources>
